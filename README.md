@@ -36,4 +36,4 @@ Esse repositório tem como principal objetivo, disseminar um conhecimento básic
 
 > Aulas por: [Guilherme Vieira](http://github.com/gitlherme) 🐱‍💻
 
-<center> <b>Criado com ❤ por Universo da Programação</b> </center>
+<p align="center"> <b>Criado com ❤ por Universo da Programação</b> </p>
