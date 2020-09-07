@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ouniversodaprogramacao/design/master/LOGO-UDN-DIVERSOS/CMYK/UdP-logo-CMYK-05.jpg" width="300px">
-</p>
-
-
-# 📦 Flexbox - Universo da Programação 👨‍🚀
+# 📦 Flexbox 👨‍🚀
 
 Esse repositório tem como principal objetivo, disseminar um conhecimento básico sobre Flexbox, propriedade do CSS que serve para organização de layouts.
 
@@ -36,4 +31,4 @@ Esse repositório tem como principal objetivo, disseminar um conhecimento básic
 
 > Aulas por: [Guilherme Vieira](http://github.com/gitlherme) 🐱‍💻
 ---
-<p align="center"> <b>Criado com ❤ por Universo da Programação</b> </p>
+<p align="center"> <b>Criado com ❤</b> </p>
