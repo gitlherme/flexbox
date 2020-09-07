@@ -18,4 +18,4 @@ Esse repositório tem como principal objetivo, disseminar um conhecimento básic
 - [Alinhando um elemento específico - `align-self`](#)
 
 ---
-<p align="center"> <b>Criado com ❤ por [Guilherme Vieira](http://twitter.com/gitlherme)</b> </p>
+<p align="center"> <b>Criado com ❤ por Guilherme Vieira</b> </p>
