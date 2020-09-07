@@ -4,7 +4,6 @@ Esse repositório tem como principal objetivo, disseminar um conhecimento básic
 
 ### Introdução
 - [O que é Flexbox e pra que serve](#)
-- [Apresentação da página que será desenvolvida](#)
 
 ### Propriedades do elemento pai
 - [Transformando um item em flexbox - `display: flex`](#)
