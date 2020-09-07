@@ -1,4 +1,4 @@
-# 📦 Flexbox 👨‍🚀
+# 📦 Flexbox
 
 Esse repositório tem como principal objetivo, disseminar um conhecimento básico sobre Flexbox, propriedade do CSS que serve para organização de layouts.
 
